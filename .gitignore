@@ -1,0 +1,23 @@
+# Downloaded 3W dataset files (not directly relevant to this project)
+3w-main.zip
+petrobras-3w/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
